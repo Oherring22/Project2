@@ -39,9 +39,10 @@ This question narrows in on nutritional affordability, which is crucial for publ
 How economic shocks disproportionately affect access to nutritious foods, which can have long-term consequences on health, particularly among low-income populations.
 Whether supply chain disruptions or demand shifts during COVID impacted healthy food prices more severely than during the 2007–2009 recession.
 The role of CPI in shaping dietary behavior and health disparities during crises.
-How inflation in essential categories (like dairy, fruits, vegetables) might inform nutrition assistance program adjustments, such as SNAP benefits.
+How inflation in essential categories (like dairy, fruits, and vegetables) might inform nutrition assistance program adjustments, such as SNAP benefits.
 
 ## Manipulations To Our Data Set:
+Our dataset does not require manipulations or calculations, as all necessary data was provided in the given columns.
 
 ## Analysis and Results:
 Question 1 Visualization
